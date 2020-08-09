@@ -106,10 +106,20 @@ https://rupress.org/jcb/article/54/2/325/48112/DIRECT-COUNTING-AND-SIZING-OF-MIT
 -- \[[Google Scholar](https://scholar.google.com/scholar?cites=13301457639078301311&as_sdt=2005&sciodt=0,5&hl=en)\]  
 -- 1972  
 
+
 ### Lipofuscin  
 
 Quantifying dense bodies and lipofuscin during aging: a morphologist's perspective - ScienceDirect  
 https://www.sciencedirect.com/science/article/pii/S0167494301002187  
+
+
+### Blood / clinical chemistry  
+
+Tietz Textbook of Clinical Chemistry and Molecular Diagnostics - 6th Edition  
+https://www.elsevier.com/books/tietz-textbook-of-clinical-chemistry-and-molecular-diagnostics/rifai/978-0-323-35921-4  
+
+Geriatric Clinical Chemistry: Reference Values | AACC.org  
+https://www.aacc.org/Store/Books/5700/Geriatric-Clinical-Chemistry-Reference-Values.aspx  
 
 
 ### Skin  
