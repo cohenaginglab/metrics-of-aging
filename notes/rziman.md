@@ -4,8 +4,16 @@
 
 -- aging biomarkers  
 -- measurements (e.g. "telomere measurements")  
+-- quantifying (e.g. "quantifying senescence")  
+-- counting (e.g. "counting mitochondria")  
 -- telomere quantiatative fluorescent in situ hybridization  
 -- face age estimation machine learning  
+
+### Mutations  
+
+Pathogenic Mechanisms of Somatic Mutation and Genome Mosaicism in Aging: Cell  
+https://www.cell.com/cell/fulltext/S0092-8674(20)30756-X  
+-- via David Sinclair https://twitter.com/davidasinclair/status/1281337950144548864  
 
 
 ### Telomeres  
@@ -66,6 +74,10 @@ https://academic.oup.com/nar/article/26/16/3651/1019066
 Telomere Length Analysis by Quantitative Fluorescent in Situ Hybridization (Q-FISH) | SpringerLink  
 https://link.springer.com/protocol/10.1007/978-1-4939-6892-3_3  
 
+Telomeres and replicative senescence: is it only length that counts? - ScienceDirect  
+https://www.sciencedirect.com/science/article/pii/S0304383501005468  
+-- \[[Google Scholar](https://scholar.google.com/scholar?cites=740678093832313927&as_sdt=2005&sciodt=0,5&hl=en)\]  
+
 
 ### Amyloid  
 
@@ -75,11 +87,37 @@ https://www.sciencedirect.com/science/article/pii/S0197458010001648
 -- 2010_RoweCC_Amyloid_imaging_results_from_the_Australian_Imaging_Biomarkers_and_Lifestyle_study_of_aging.pdf  
 -- n.b. highly-cited Alzheimer's-related papers in Google Scholar citation list  
 
+
+### Senescent cells  
+
+A fluorimetric method using fluorescein di-β-d-galactopyranoside for quantifying the senescence-associated β-galactosidase activity in human foreskin fibroblast Hs68 cells - ScienceDirect
+https://www.sciencedirect.com/science/article/pii/S0003269703008030  
+-- \[[Google Scholar](https://scholar.google.com/scholar?cites=14775636975987450611&as_sdt=2005&sciodt=0,5&hl=en)\]  
+
+Quantitative assay of senescence-associated β-galactosidase activity in mammalian cell extracts - ScienceDirect  
+https://www.sciencedirect.com/science/article/pii/S0003269705004185  
+-- \[[Google Scholar](https://scholar.google.com/scholar?cites=10007861883750325932&as_sdt=2005&sciodt=0,5&hl=en)\]  
+
+
+### Mitochondria  
+
+DIRECT COUNTING AND SIZING OF MITOCHONDRIA IN SOLUTION | Journal of Cell Biology | Rockefeller University Press  
+https://rupress.org/jcb/article/54/2/325/48112/DIRECT-COUNTING-AND-SIZING-OF-MITOCHONDRIA-IN  
+-- \[[Google Scholar](https://scholar.google.com/scholar?cites=13301457639078301311&as_sdt=2005&sciodt=0,5&hl=en)\]  
+-- 1972  
+
+### Lipofuscin  
+
+Quantifying dense bodies and lipofuscin during aging: a morphologist's perspective - ScienceDirect  
+https://www.sciencedirect.com/science/article/pii/S0167494301002187  
+
+
 ### Skin  
 
 Frontiers | Biomarkers of Cellular Senescence and Skin Aging | Genetics  
 https://www.frontiersin.org/articles/10.3389/fgene.2018.00247/full  
 -- "Skin Research Institute of Singapore (SRIS), A∗STAR, Singapore"  
+
 
 ### Face  
 
@@ -105,6 +143,7 @@ https://ieeexplore.ieee.org/abstract/document/6475129?casa_token=laAb_-5naOEAAAA
 Deep Expectation of Real and Apparent Age from a Single Image Without Facial Landmarks | SpringerLink  
 https://link.springer.com/article/10.1007/s11263-016-0940-3  
 > the IMDB-WIKI dataset, the largest public dataset of face images with age and gender labels  
+
 
 ### AI/ML general    
 
