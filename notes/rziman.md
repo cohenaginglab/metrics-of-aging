@@ -1,5 +1,27 @@
 # notes/rziman.md  
 
+### Project files  
+
+metrics-of-aging - Google Drive  
+https://drive.google.com/drive/folders/1tH2ARfl67TS5YqifRZPozmwq2Gsz6fpK  
+
+metrics_and_biomarkers_of_aging - Google Sheets  
+https://docs.google.com/spreadsheets/d/1y7LQD0bQn_2fSeqUnSJQWxxGgNiSgP0NMWFrQxQf5r4/edit#gid=0  
+
+
+### Similar projects  
+
+Biology Data Book, Volumes 1-3 (2nd Edition) - Knovel  
+https://app.knovel.com/web/toc.v/cid:kpBDBVE00B/viewerType:toc/  
+-- 1972-1974  
+
+BioNumbers - The Database of Useful Biological Numbers  
+https://bionumbers.hms.harvard.edu/search.aspx  
+
+Welcome to the Digital Ageing Atlas, the portal of ageing related changes | The Digital Ageing Atlas  
+http://ageing-map.org/  
+
+
 ### Search keywords  
 
 -- aging biomarkers  
