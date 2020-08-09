@@ -1,0 +1,82 @@
+# notes/rziman.md  
+
+### Search keywords  
+
+-- aging biomarkers  
+-- measurements (e.g. "telomere measurements")  
+-- telomere quantiatative fluorescent in situ hybridization  
+
+
+### Telomeres  
+
+Telomere length measurements using digital fluorescence microscopy - Poon - 1999 - Cytometry - Wiley Online Library  
+https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-0320(19990801)36:4%3C267::AID-CYTO1%3E3.0.CO;2-O  
+-- \[[Google Scholar](https://scholar.google.com/scholar?cites=2223844383439028925&as_sdt=2005&sciodt=0,5&hl=en)\]  
+-- 1999_PoonSSS_Telomere_length_measurements_using_digital_fluorescence_microscopy.pdf  
+
+Telomere measurement by quantitative PCR | Nucleic Acids Research | Oxford Academic  
+https://academic.oup.com/nar/article/30/10/e47/1127216  
+-- \[[Google Scholar](https://scholar.google.com/scholar?cites=13200443357645535311&as_sdt=2005&sciodt=0,5&hl=en)\]  
+-- 2002_CawthonRM_Telomere_measurement_by_quantitative_PCR.pdf  
+-- highly cited (>1000) articles in citation list  
+
+Telomere length measurement by a novel monochrome multiplex quantitative PCR method | Nucleic Acids Research | Oxford Academic  
+https://academic.oup.com/nar/article/37/3/e21/1074965  
+-- \[[Google Scholar](https://scholar.google.com/scholar?cites=6797007437290107971&as_sdt=2005&sciodt=0,5&hl=en)\]  
+-- 2009_CawthonRM_Telomere_length_measurement_by_a_novel_monochrome_multiplex_quantitative_PCR_method.pdf  
+
+Accelerated telomere shortening in response to life stress | PNAS  
+https://www.pnas.org/content/101/49/17312.short  
+-- \[[Google Scholar](https://scholar.google.com/scholar?cites=18323189130397770680&as_sdt=2005&sciodt=0,5&hl=en)\]  
+-- 2004_EpelES_Accelerated_telomere_shortening_in_response_to_life_stress.pdf  
+
+High-throughput telomere length quantification by FISH and its application to human population studies | PNAS  
+https://www.pnas.org/content/104/13/5300.short  
+-- \[[Google Scholar](https://scholar.google.com/scholar?cites=10950116284276409020&as_sdt=2005&sciodt=0,5&hl=en)\]  
+-- 2007_CanelaA_High-throughput_telomere_length_quantification_by_FISH_and_its_application_to_human_population_studies.pdf  
+
+Telomere analysis by fluorescence in situ hybridization and flow cytometry | Nucleic Acids Research | Oxford Academic  
+https://academic.oup.com/nar/article/26/16/3651/1019066  
+-- \[[Google Scholar](https://scholar.google.com/scholar?cites=7701514516384632480&as_sdt=2005&sciodt=0,5&hl=en)\]  
+-- n.b. articles in citation list with very high (>2000) reference counts  
+
+Telomere Length in Epidemiology: A Biomarker of Aging, Age-Related Disease, Both, or Neither? | Epidemiologic Reviews | Oxford Academic
+https://academic.oup.com/epirev/article/35/1/112/552544  
+
+The longest telomeres: a general signature of adult stem cell compartments  
+http://genesdev.cshlp.org/content/22/5/654.short  
+-- 2008_FloresI_The_longest_telomeres_a_general_signature_of_adult_stem_cell_compartments.pdf  
+-- "Using confocal telomere quantitative fluorescence in situ hybridization (telomapping), we find gradients of telomere length within tissues"  
+-- histograms of telomere fluorescence distribution  
+
+Telomere length measurement—Caveats and a critical assessment of the available technologies and tools - ScienceDirect  
+https://www.sciencedirect.com/science/article/pii/S0027510711000868  
+-- \[[Google Scholar](https://scholar.google.com/scholar?cites=11950072264233430457&as_sdt=2005&sciodt=0,5&hl=en)\]  
+-- 2012_AubertG_Telomere_length_measurement--Caveats_and_a_critical_assessment_of_the_available_technologies_and_tools.pdf  
+
+Telomere Length: A Review of Methods for Measurement  
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4292845/  
+-- \[[Google Scholar](https://scholar.google.com/scholar?cites=1700581624401454667&as_sdt=2005&sciodt=0,5&hl=en)\]  
+-- 2014_MontpetitAJ_Telomere_Length_A_Review_of_Methods_for_Measurement.pdf  
+
+
+### Amyloid  
+
+Amyloid imaging results from the Australian Imaging, Biomarkers and Lifestyle (AIBL) study of aging - ScienceDirect  
+https://www.sciencedirect.com/science/article/pii/S0197458010001648  
+-- \[[Google Scholar](https://scholar.google.com/scholar?cluster=16154753425991616576&hl=en&as_sdt=2005&sciodt=0,5)\]  
+-- 2010_RoweCC_Amyloid_imaging_results_from_the_Australian_Imaging_Biomarkers_and_Lifestyle_study_of_aging.pdf  
+-- n.b. highly-cited Alzheimer's-related papers in Google Scholar citation list  
+
+### Skin  
+
+Frontiers | Biomarkers of Cellular Senescence and Skin Aging | Genetics  
+https://www.frontiersin.org/articles/10.3389/fgene.2018.00247/full  
+-- "Skin Research Institute of Singapore (SRIS), A∗STAR, Singapore"  
+
+### AI/ML  
+
+Applications of Deep Learning in Biomedicine | Molecular Pharmaceutics  
+https://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.5b00982  
+-- \[[Google Schola](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Applications+of+Deep+Learning+in+Biomedicine&btnG=)\]  
+-- 2016_MamoshinaP_Applications_of_Deep_Learning_in_Biomedicine.pdf  
