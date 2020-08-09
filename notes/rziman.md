@@ -93,13 +93,18 @@ https://ieeexplore.ieee.org/abstract/document/4359348?casa_token=aUljJKaNXNYAAAA
 -- \[[Google Scholar](https://scholar.google.com/scholar?cites=9971926275389168924&as_sdt=2005&sciodt=0,5&hl=en)\]  
 
 Age and Gender Classification Using Convolutional Neural Networks  
-https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2015/W08/html/Levi_Age_and_Gender_2015_CVPR_paper.html
+https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2015/W08/html/Levi_Age_and_Gender_2015_CVPR_paper.html  
 -- \[[Google Scholar](https://scholar.google.com/scholar?cites=105249660032728298&as_sdt=2005&sciodt=0,5&hl=en)\]  
 
 Facial Age Estimation by Learning from Label Distributions - IEEE Journals & Magazine  
 https://ieeexplore.ieee.org/abstract/document/6475129?casa_token=laAb_-5naOEAAAAA:OtdALqRD8XMMfco0zfXiwb5ZGzFI90UyCCzdqOj9gMVPG5bvkZWMUi1EuPtY6GOPh9RUYi2FnLk  
+-- \[[Google Scholar](https://scholar.google.com/scholar?cites=17155258017635412833&as_sdt=2005&sciodt=0,5&hl=en)\]  
 > Two datasets are used in the experiments. The first is the FG-NET Aging Database [20]. There are 1,002 face images from 82 subjects in this database.  
 > The second dataset is the much larger MORPH database [27]. There are 55,132 face images from more than 13,000 subjects in this database.  
+
+Deep Expectation of Real and Apparent Age from a Single Image Without Facial Landmarks | SpringerLink  
+https://link.springer.com/article/10.1007/s11263-016-0940-3  
+> the IMDB-WIKI dataset, the largest public dataset of face images with age and gender labels  
 
 ### AI/ML general    
 
