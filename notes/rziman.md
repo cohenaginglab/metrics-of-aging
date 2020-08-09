@@ -5,6 +5,7 @@
 -- aging biomarkers  
 -- measurements (e.g. "telomere measurements")  
 -- telomere quantiatative fluorescent in situ hybridization  
+-- face age estimation machine learning  
 
 
 ### Telomeres  
@@ -59,6 +60,12 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4292845/
 -- \[[Google Scholar](https://scholar.google.com/scholar?cites=1700581624401454667&as_sdt=2005&sciodt=0,5&hl=en)\]  
 -- 2014_MontpetitAJ_Telomere_Length_A_Review_of_Methods_for_Measurement.pdf  
 
+Telomere analysis by fluorescence in situ hybridization and flow cytometry | Nucleic Acids Research | Oxford Academic  
+https://academic.oup.com/nar/article/26/16/3651/1019066  
+
+Telomere Length Analysis by Quantitative Fluorescent in Situ Hybridization (Q-FISH) | SpringerLink  
+https://link.springer.com/protocol/10.1007/978-1-4939-6892-3_3  
+
 
 ### Amyloid  
 
@@ -74,9 +81,34 @@ Frontiers | Biomarkers of Cellular Senescence and Skin Aging | Genetics
 https://www.frontiersin.org/articles/10.3389/fgene.2018.00247/full  
 -- "Skin Research Institute of Singapore (SRIS), A∗STAR, Singapore"  
 
-### AI/ML  
+### Face  
+
+PhotoAgeClock: deep learning algorithms for development of non-invasive visual biomarkers of aging  
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6286834/  
+-- \[[Google Scholar](https://scholar.google.com/scholar?cites=2086919628867726103&as_sdt=2005&sciodt=0,5&hl=en)\]  
+-- Table 1: Comparison of the best described approaches of age estimation and their accuracy assumed by MAE, years  
+
+Automatic Age Estimation Based on Facial Aging Patterns - IEEE Journals & Magazine  
+https://ieeexplore.ieee.org/abstract/document/4359348?casa_token=aUljJKaNXNYAAAAA:Q6ZIIM76ub8B-KsPD2FaTL8S_R9Mi7y_7bchhjIkG7q-1DSg3WFxd1uJpVWIAD0wtbdLmiKOxik  
+-- \[[Google Scholar](https://scholar.google.com/scholar?cites=9971926275389168924&as_sdt=2005&sciodt=0,5&hl=en)\]  
+
+Age and Gender Classification Using Convolutional Neural Networks  
+https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2015/W08/html/Levi_Age_and_Gender_2015_CVPR_paper.html
+-- \[[Google Scholar](https://scholar.google.com/scholar?cites=105249660032728298&as_sdt=2005&sciodt=0,5&hl=en)\]  
+
+Facial Age Estimation by Learning from Label Distributions - IEEE Journals & Magazine  
+https://ieeexplore.ieee.org/abstract/document/6475129?casa_token=laAb_-5naOEAAAAA:OtdALqRD8XMMfco0zfXiwb5ZGzFI90UyCCzdqOj9gMVPG5bvkZWMUi1EuPtY6GOPh9RUYi2FnLk  
+> Two datasets are used in the experiments. The first is the FG-NET Aging Database [20]. There are 1,002 face images from 82 subjects in this database.  
+> The second dataset is the much larger MORPH database [27]. There are 55,132 face images from more than 13,000 subjects in this database.  
+
+### AI/ML general    
 
 Applications of Deep Learning in Biomedicine | Molecular Pharmaceutics  
 https://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.5b00982  
--- \[[Google Schola](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Applications+of+Deep+Learning+in+Biomedicine&btnG=)\]  
+-- \[[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Applications+of+Deep+Learning+in+Biomedicine&btnG=)\]  
 -- 2016_MamoshinaP_Applications_of_Deep_Learning_in_Biomedicine.pdf  
+
+Deep Aging Clocks: The Emergence of AI-Based Biomarkers of Aging and Longevity - ScienceDirect  
+https://www.sciencedirect.com/science/article/pii/S0165614719301142  
+-- \[[Google Scholar](https://scholar.google.com/scholar?cites=17794149426080571195&as_sdt=2005&sciodt=0,5&hl=en)\]  
+
