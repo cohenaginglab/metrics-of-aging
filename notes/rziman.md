@@ -154,6 +154,7 @@ https://www.sciencedirect.com/science/article/pii/S0167494301002187
 
 Tietz Textbook of Clinical Chemistry and Molecular Diagnostics - 6th Edition  
 https://www.elsevier.com/books/tietz-textbook-of-clinical-chemistry-and-molecular-diagnostics/rifai/978-0-323-35921-4  
+-- This is the de-facto reference for the field.  
 
 Geriatric Clinical Chemistry: Reference Values | AACC.org  
 https://www.aacc.org/Store/Books/5700/Geriatric-Clinical-Chemistry-Reference-Values.aspx  
