@@ -150,6 +150,10 @@ Frontiers | Biomarkers of Cellular Senescence and Skin Aging | Genetics
 https://www.frontiersin.org/articles/10.3389/fgene.2018.00247/full  
 -- "Skin Research Institute of Singapore (SRIS), A∗STAR, Singapore"  
 
+Predicting age from the transcriptome of human dermal fibroblasts | Genome Biology | Full Text  
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1599-6  
+-- [via](https://www.salk.edu/news-release/age-is-more-than-just-a-number-machine-learning-may-be-able-to-predict-if-youre-in-for-a-healthy-old-age/) ([via](https://www.fightaging.org/archives/2018/12/a-selection-of-recent-research-into-biomarkers-of-aging/))  
+
 
 ### Face  
 
