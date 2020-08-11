@@ -7,6 +7,7 @@ https://drive.google.com/drive/folders/1tH2ARfl67TS5YqifRZPozmwq2Gsz6fpK
 
 metrics_and_biomarkers_of_aging - Google Sheets  
 https://docs.google.com/spreadsheets/d/1y7LQD0bQn_2fSeqUnSJQWxxGgNiSgP0NMWFrQxQf5r4/edit#gid=0  
+-- N.B. (10-Aug-2020): placeholder (to be completed)  
 
 
 ### Similar projects  
@@ -30,6 +31,7 @@ http://ageing-map.org/
 -- counting (e.g. "counting mitochondria")  
 -- telomere quantiatative fluorescent in situ hybridization  
 -- face age estimation machine learning  
+
 
 ### General references  
 
