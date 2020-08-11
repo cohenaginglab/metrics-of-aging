@@ -31,6 +31,7 @@ http://ageing-map.org/
 -- telomere quantiatative fluorescent in situ hybridization  
 -- face age estimation machine learning  
 
+
 ### Mutations  
 
 Pathogenic Mechanisms of Somatic Mutation and Genome Mosaicism in Aging: Cell  
@@ -99,6 +100,13 @@ https://link.springer.com/protocol/10.1007/978-1-4939-6892-3_3
 Telomeres and replicative senescence: is it only length that counts? - ScienceDirect  
 https://www.sciencedirect.com/science/article/pii/S0304383501005468  
 -- \[[Google Scholar](https://scholar.google.com/scholar?cites=740678093832313927&as_sdt=2005&sciodt=0,5&hl=en)\]  
+
+
+### cfDNA  
+
+Cell‐free DNA as a biomarker of aging - Teo - 2019 - Aging Cell - Wiley Online Library  
+https://onlinelibrary.wiley.com/doi/10.1111/acel.12890  
+-- [via](https://www.brown.edu/news/2018-12-21/aging) ([via](https://www.fightaging.org/archives/2018/12/a-selection-of-recent-research-into-biomarkers-of-aging/))  
 
 
 ### Amyloid  
