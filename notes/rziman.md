@@ -31,6 +31,11 @@ http://ageing-map.org/
 -- telomere quantiatative fluorescent in situ hybridization  
 -- face age estimation machine learning  
 
+### General references  
+
+Biomarkers of aging - Wikipedia  
+https://en.wikipedia.org/wiki/Biomarkers_of_aging  
+
 
 ### Mutations  
 
@@ -150,6 +155,13 @@ https://www.elsevier.com/books/tietz-textbook-of-clinical-chemistry-and-molecula
 
 Geriatric Clinical Chemistry: Reference Values | AACC.org  
 https://www.aacc.org/Store/Books/5700/Geriatric-Clinical-Chemistry-Reference-Values.aspx  
+
+
+### Thymus  
+
+Determination of thymic function directly from peripheral blood: A validated modification to an established method  
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2593795/  
+-- T cell receptor excision circles (TREC)  
 
 
 ### Skin  
