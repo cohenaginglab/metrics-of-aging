@@ -215,3 +215,17 @@ Deep Aging Clocks: The Emergence of AI-Based Biomarkers of Aging and Longevity -
 https://www.sciencedirect.com/science/article/pii/S0165614719301142  
 -- \[[Google Scholar](https://scholar.google.com/scholar?cites=17794149426080571195&as_sdt=2005&sciodt=0,5&hl=en)\]  
 
+Deep learning for biological age estimation  - Briefings in Bioinformatics
+https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa021/5828124
+
+Machine Learning Approaches for the Estimation of Biological Aging: The Road Ahead for Population Studies - Frontiers in Medicine
+https://www.frontiersin.org/articles/10.3389/fmed.2019.00146/full
+> Somewhat a review, probably additional sources in it for this project
+
+Deep Learning using Convolutional LSTM estimates Biological Age from Physical Activity - Nature Scientific Reports
+https://www.nature.com/articles/s41598-019-46850-0
+> Dataset of ~15K individuals and their physical activity e.g locomotion
+> Association between physical activity with biomarkers e.g activity can be tied to biomarker profiles
+
+Extracting biological age from biomedical data via deep learning: too much of a good thing? - Nature Scientific Reports
+https://www.nature.com/articles/s41598-018-23534-9
