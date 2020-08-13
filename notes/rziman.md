@@ -160,6 +160,13 @@ Geriatric Clinical Chemistry: Reference Values | AACC.org
 https://www.aacc.org/Store/Books/5700/Geriatric-Clinical-Chemistry-Reference-Values.aspx  
 
 
+### Metabolomics  
+
+Cell Metabolism on Twitter: "Quantitative Fluxomics of Circulating Metabolites https://t.co/Xr7elukru4" / Twitter  
+https://twitter.com/Cell_Metabolism/status/1293562266063761408  
+-- not aging-specific but noticed on Twitter, looks interesting. [rziman 13-Aug-2020]  
+
+
 ### Thymus  
 
 Determination of thymic function directly from peripheral blood: A validated modification to an established method  
