@@ -48,6 +48,12 @@ https://www.cell.com/cell/fulltext/S0092-8674(20)30756-X
 
 ### Telomeres  
 
+Changes of telomere length with aging - Takubo - 2010 - Geriatrics & Gerontology International - Wiley Online Library  
+https://onlinelibrary.wiley.com/doi/full/10.1111/j.1447-0594.2010.00605.x  
+-- \[[Google Scholar](https://scholar.google.com/scholar?cites=756102047662214906&as_sdt=2005&sciodt=0,5&hl=en)\]  
+-- 2010_TakuboK_Changes_of_telomere_length_with_aging.pdf  
+-- **Table 1: Yearly reduction rates of telomere length in human tissues**  
+
 Telomere length measurements using digital fluorescence microscopy - Poon - 1999 - Cytometry - Wiley Online Library  
 https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-0320(19990801)36:4%3C267::AID-CYTO1%3E3.0.CO;2-O  
 -- \[[Google Scholar](https://scholar.google.com/scholar?cites=2223844383439028925&as_sdt=2005&sciodt=0,5&hl=en)\]  
