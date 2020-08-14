@@ -162,6 +162,9 @@ https://www.aacc.org/Store/Books/5700/Geriatric-Clinical-Chemistry-Reference-Val
 The transcriptional landscape of age in human peripheral blood - Nature Communications
 https://www.nature.com/articles/ncomms9570
 
+Modeling the Rate of Senescence: Can Estimated Biological Age Predict Mortality More Accurately Than Chronological Age? - The Journals of Gerontology
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3660119/
+
 
 
 ### Metabolomics  
@@ -215,12 +218,26 @@ https://link.springer.com/article/10.1007/s11263-016-0940-3
 > the IMDB-WIKI dataset, the largest public dataset of face images with age and gender labels  
 
 ### Methylation
+
 Genome-wide methylation profles reveal quantitative views of human aging rates - Molecular Cell
 https://www.sciencedirect.com/science/article/pii/S1097276512008933
 
 ### Protein Profile
+
 Protein profling reveals consequences of lifestyle choices on predicted biological aging - Nature Scientific Reports
 https://www.nature.com/articles/srep17282
+
+
+### Gut Microbiome
+
+Age-related changes in gut microbiota composition from newborn to centenarian: a cross-sectional study -BMC Microbiology
+https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-016-0708-5
+
+### Glycans
+
+Glycans Are a Novel Biomarker of Chronological and Biological Ages - Journals of Gerontology
+https://academic.oup.com/biomedgerontology/article/69/7/779/662651
+
 
 ### AI/ML general    
 
@@ -248,5 +265,6 @@ https://www.nature.com/articles/s41598-019-46850-0
 Extracting biological age from biomedical data via deep learning: too much of a good thing? - Nature Scientific Reports
 https://www.nature.com/articles/s41598-018-23534-9
 > PCA, linear regression and Convolutional Neural Net
+> higher accuracy in predicting chronological age comes at the cost of reduced biological age acceleration signifcance
 
 
