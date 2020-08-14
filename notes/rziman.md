@@ -159,6 +159,10 @@ https://www.elsevier.com/books/tietz-textbook-of-clinical-chemistry-and-molecula
 Geriatric Clinical Chemistry: Reference Values | AACC.org  
 https://www.aacc.org/Store/Books/5700/Geriatric-Clinical-Chemistry-Reference-Values.aspx  
 
+The transcriptional landscape of age in human peripheral blood - Nature Communications
+https://www.nature.com/articles/ncomms9570
+
+
 
 ### Metabolomics  
 
@@ -210,6 +214,13 @@ Deep Expectation of Real and Apparent Age from a Single Image Without Facial Lan
 https://link.springer.com/article/10.1007/s11263-016-0940-3  
 > the IMDB-WIKI dataset, the largest public dataset of face images with age and gender labels  
 
+### Methylation
+Genome-wide methylation profles reveal quantitative views of human aging rates - Molecular Cell
+https://www.sciencedirect.com/science/article/pii/S1097276512008933
+
+### Protein Profile
+Protein profling reveals consequences of lifestyle choices on predicted biological aging - Nature Scientific Reports
+https://www.nature.com/articles/srep17282
 
 ### AI/ML general    
 
@@ -236,3 +247,6 @@ https://www.nature.com/articles/s41598-019-46850-0
 
 Extracting biological age from biomedical data via deep learning: too much of a good thing? - Nature Scientific Reports
 https://www.nature.com/articles/s41598-018-23534-9
+> PCA, linear regression and Convolutional Neural Net
+
+
