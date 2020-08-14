@@ -171,6 +171,8 @@ https://www.nature.com/articles/ncomms9570
 Modeling the Rate of Senescence: Can Estimated Biological Age Predict Mortality More Accurately Than Chronological Age? - The Journals of Gerontology
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3660119/
 
+Biochemical Markers of Aging for Longitudinal Studies in Humans | Epidemiologic Reviews | Oxford Academic  
+https://academic.oup.com/epirev/article/35/1/132/553515  
 
 
 ### Metabolomics  
@@ -223,10 +225,12 @@ Deep Expectation of Real and Apparent Age from a Single Image Without Facial Lan
 https://link.springer.com/article/10.1007/s11263-016-0940-3  
 > the IMDB-WIKI dataset, the largest public dataset of face images with age and gender labels  
 
+
 ### Methylation
 
 Genome-wide methylation profles reveal quantitative views of human aging rates - Molecular Cell
 https://www.sciencedirect.com/science/article/pii/S1097276512008933
+
 
 ### Protein Profile
 
@@ -238,6 +242,7 @@ https://www.nature.com/articles/srep17282
 
 Age-related changes in gut microbiota composition from newborn to centenarian: a cross-sectional study -BMC Microbiology
 https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-016-0708-5
+
 
 ### Glycans
 
