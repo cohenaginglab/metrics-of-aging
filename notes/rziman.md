@@ -54,6 +54,12 @@ https://onlinelibrary.wiley.com/doi/full/10.1111/j.1447-0594.2010.00605.x
 -- 2010_TakuboK_Changes_of_telomere_length_with_aging.pdf  
 -- **Table 1: Yearly reduction rates of telomere length in human tissues**  
 
+Telomere shortening rate predicts species life span | PNAS  
+https://www.pnas.org/content/116/30/15122.short  
+-- \[[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Telomere+shortening+in+species&btnG=)\]  
+-- 2019_WhittemoreK_Telomere_shortening_rate_predicts_species_life_span.pdf  
+-- **Fig. 1. Telomere measurements for various species**  
+
 Telomere length measurements using digital fluorescence microscopy - Poon - 1999 - Cytometry - Wiley Online Library  
 https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-0320(19990801)36:4%3C267::AID-CYTO1%3E3.0.CO;2-O  
 -- \[[Google Scholar](https://scholar.google.com/scholar?cites=2223844383439028925&as_sdt=2005&sciodt=0,5&hl=en)\]  
