@@ -1,2 +1,3 @@
 # metrics-of-aging
-Repository for the Manubot collaborative review on mechanistic biomarkers/metrics of aging
+
+Repository for the collaborative review and database of mechanistic biomarkers/metrics of aging
