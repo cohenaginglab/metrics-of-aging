@@ -151,6 +151,11 @@ https://www.sciencedirect.com/science/article/pii/S0003269705004185
 
 ### Mitochondria  
 
+Genetic and functional changes in mitochondria associated with aging  
+https://journals.physiology.org/doi/pdf/10.1152/physrev.1997.77.2.425  
+-- 1997  
+-- 40 page review  
+
 DIRECT COUNTING AND SIZING OF MITOCHONDRIA IN SOLUTION | Journal of Cell Biology | Rockefeller University Press  
 https://rupress.org/jcb/article/54/2/325/48112/DIRECT-COUNTING-AND-SIZING-OF-MITOCHONDRIA-IN  
 -- \[[Google Scholar](https://scholar.google.com/scholar?cites=13301457639078301311&as_sdt=2005&sciodt=0,5&hl=en)\]  
