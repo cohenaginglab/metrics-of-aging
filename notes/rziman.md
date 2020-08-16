@@ -152,8 +152,8 @@ https://www.sciencedirect.com/science/article/pii/S0003269705004185
 ### Mitochondria  
 
 Genetic and functional changes in mitochondria associated with aging  
-https://journals.physiology.org/doi/pdf/10.1152/physrev.1997.77.2.425  
--- 1997  
+https://journals.physiology.org/doi/abs/10.1152/physrev.1997.77.2.425  
+-- 1997_OzawaT_Genetic_and_functional_changes_in_mitochondria_associated_with_aging.pdf  
 -- 40 page review  
 
 DIRECT COUNTING AND SIZING OF MITOCHONDRIA IN SOLUTION | Journal of Cell Biology | Rockefeller University Press  
