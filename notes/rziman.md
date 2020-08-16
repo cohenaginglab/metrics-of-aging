@@ -55,6 +55,12 @@ https://onlinelibrary.wiley.com/doi/full/10.1111/j.1447-0594.2010.00605.x
 -- 2010_TakuboK_Changes_of_telomere_length_with_aging.pdf  
 -- **Table 1: Yearly reduction rates of telomere length in human tissues**  
 
+Changes of telomere status with aging: An update - Ishikawa - 2016 - Geriatrics & Gerontology International - Wiley Online Library  
+https://onlinelibrary.wiley.com/doi/full/10.1111/ggi.12772  
+-- \[[Google Scholar](https://scholar.google.com/scholar?cites=14611835210242324068&as_sdt=2005&sciodt=0,5&hl=en)\]  
+-- 2016_IshikawaN_Changes_of_telomere_status_with_aging_an_update.pdf  
+> Although it has been largely accepted that telomere attrition is one of the major causes of aging‐related disorders, critical aspects of telomere biology remain unresolved, especially **the lack of standardized methodology for quantification of telomere length.**  
+
 Telomere shortening rate predicts species life span | PNAS  
 https://www.pnas.org/content/116/30/15122.short  
 -- \[[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Telomere+shortening+in+species&btnG=)\]  
